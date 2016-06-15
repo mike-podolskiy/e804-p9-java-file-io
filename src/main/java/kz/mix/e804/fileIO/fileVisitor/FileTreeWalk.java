@@ -1,7 +1,6 @@
 //CHECKSTYLE:OFF
 package kz.mix.e804.fileIO.fileVisitor;
 
-import java.io.File;
 import java.io.IOException;
 import java.nio.file.FileVisitResult;
 import java.nio.file.Files;
